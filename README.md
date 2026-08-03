@@ -65,7 +65,7 @@ The analysis aims to:
 
 ## Dashboard Preview
 
-![Dashboard](05%20Dashboard/Dashboard-overview.png)
+![Dashboard](05%20Dashboard/Dashboard%20Overview.png)
 ```
 
 ---
