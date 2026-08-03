@@ -65,10 +65,7 @@ The analysis aims to:
 
 ## Dashboard Preview
 
-> *Insert dashboard screenshot here.*
-
-```md
-![Dashboard](09%20Images/dashboard-overview.png)
+![Dashboard](05%20Dashboard/Dashboard-overview.png)
 ```
 
 ---
